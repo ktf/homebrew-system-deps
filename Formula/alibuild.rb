@@ -3,7 +3,7 @@ class Alibuild < Formula
 
   desc "ALICE Build Tool"
   homepage "http://alisw.github.io/alibuild"
-  url "https://github.com/alisw/alibuild/archive/v1.8.3.rc1.tar.gz"
+  url "https://github.com/alisw/alibuild/archive/refs/tags/v1.8.3.rc1.tar.gz"
   sha256 "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed"
   version "1.8.3.rc1"
   depends_on "s3cmd"
